@@ -39,7 +39,7 @@
 ### 🔥 Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=BMateusSs&theme=radical" />
 </p>
 
 ---
