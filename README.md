@@ -21,9 +21,7 @@
 
 ### 🚀 Projetos em destaque
 
-- 🗂️ [Kanban Web](https://github.com/SEU_USUARIO/kanban-web) — Aplicativo de gerenciamento de tarefas feito com **Node.js + MySQL + HTML/CSS/JS**.
-- 🧮 [Conversor de Unidades](https://github.com/SEU_USUARIO/conversor-unidades) — Projeto simples com **HTML, CSS e JavaScript**.
-- 📝 [To-Do List](https://github.com/SEU_USUARIO/todo-list) — Gerenciador de tarefas com **Node.js e Express**.
+- 🗂️ [Kanban Web](https://github.com/BMateusSs/OrganizaAi) — Aplicativo de gerenciamento de tarefas feito com **Node.js + MySQL + HTML/CSS/JS**.
 
 ---
 
