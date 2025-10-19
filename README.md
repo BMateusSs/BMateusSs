@@ -21,7 +21,7 @@
 
 ### 🚀 Projetos em destaque
 
-- 🗂️ [Organiza-Aí](https://github.com/BMateusSs/OrganizaAi) — Aplicativo de gerenciamento de tarefas feito com **Node.js + MySQL + HTML/CSS/JS**.
+- 🗂️ [Organiza-Aí](https://github.com/BMateusSs/OrganizaAi) — Site de gerenciamento de tarefas feito com **Node.js + MySQL + HTML/CSS/JS**.
 
 ---
 
